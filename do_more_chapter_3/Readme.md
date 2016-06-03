@@ -4,5 +4,7 @@
 
 ### Just like the last exercise, type this command 20 times and say it out loud.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+  ```(master) Stefan```
+  ```Stefans-MacBook-Pro:learn_command_line_exercises $ hostname```
+  ```Stefans-MacBook-Pro.local```
 
