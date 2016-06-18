@@ -4,10 +4,113 @@
 ## Do More
 
 ### Make a few more text files and work with cat.
+    Stefans-MacBook-Pro:temp $ touch q.txt
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+
+    Stefans-MacBook-Pro:temp $ touch r.txt
+
+
+    Stefans-MacBook-Pro:temp $ cat q.txt
+
+
+    Stefans-MacBook-Pro:temp $ cat r.txt
+
+
+    Stefans-MacBook-Pro:temp $ touch s.txt
+
+
+    Stefans-MacBook-Pro:temp $ cat s.txt
+    
 
 ### Unix: Try cat ex12.txt ex13.txt and see what it does.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    Stefans-MacBook-Pro:temp $ cat ex13.txt
+    
+    
+    Stefans-MacBook-Pro:temp $ cat ex12.txt
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
+    Some Stuff!Some Stuff!Some Stuff!
 
