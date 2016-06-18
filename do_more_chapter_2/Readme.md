@@ -11,6 +11,7 @@
     Stefans-MacBook-Pro:learn_command_line_exercises $ pwd
     /Users/nafetsremlap/workspace/davinci_coders_t2_2016/homework/learn_command_line_exercises
 
+  I found it by going into Finder, davinci_coders_t2_2016 folder under favorites, and into the learn_command_line_exercises folder
  
 
 ### No, seriously, type it 20 times and say it out loud. Sssh. Just do it.
