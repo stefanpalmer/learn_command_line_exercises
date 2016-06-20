@@ -7,16 +7,16 @@
 
 ### Explain what the | symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   Piping - It feeds the output from the program on the left as input to the program on the right.
     
 ### Explain what the < symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   Read data from the file on the right and feed it into the program on the left.
     
 ### Explain what the > symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   The output of the program on the left is saved in a file on the right.
     
 ### Explain what the >> symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   Gets the new data to be appended to the file, without replacing the data that's already there.
