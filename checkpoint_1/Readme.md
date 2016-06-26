@@ -19,11 +19,11 @@ For each question that is asked below, please provide the command you would run 
 
 2) Are you in the class directory?
 
-   Yes
+   No
     
 3) Are you in a subdirectory of the class directory?
     
-   Yes
+   Yes, in the foo_bar subdirectory
     
 4) Please make a directory called "My Stuff"
 
@@ -49,7 +49,7 @@ For each question that is asked below, please provide the command you would run 
       
 8) Find that directory in the graphical file browser (Finder on Mac).
 
-   Done!
+   First go to Finder, then select the *davinci_coders_t2_2016* folder under *favorites*, go into the *homework* folder, into the *learn_command_line_exercises* folder, then into the *checkpoint_1* folder, the *foo_bar* folder, and finally into the *My Stuff* folder.
 
 9) Please go up two directories.
 
