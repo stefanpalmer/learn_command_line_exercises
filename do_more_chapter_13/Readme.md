@@ -24,93 +24,38 @@
 
 ### Unix: Try cat ex12.txt ex13.txt and see what it does.
 
-    Stefans-MacBook-Pro:temp $ cat ex13.txt
-    
-    
-    Stefans-MacBook-Pro:temp $ cat ex12.txt
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
-    Some Stuff!Some Stuff!Some Stuff!
+   The text from both files is printed. First the text from ex12.txt and then the text from ex13.txt right after that.
+
+    (master) Stefan
+    Stefans-MacBook-Pro:temp $ cat ex12.txt ex13.txt
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Some Stuff! Some Stuff! Some Stuff!
+    Text for exercise 13
+    Text for exercise 13
+    Text for exercise 13
+    Text for exercise 13
+    Text for exercise 13
+    Text for exercise 13
+    Text for exercise 13
+    Text for exercise 13
+    Text for exercise 13
+    Text for exercise 13
 
