@@ -32,16 +32,8 @@
 
 ### Look for all the video files on your computer starting at the home drive and use the > to save the list to a file. Remember how you can do SOMECOMMAND > SOMEFILE.txt and it will write the output of SOMECOMMAND to the file SOMEFILE.txt?
 
-    Stefans-MacBook-Pro:~ $ find Desktop/ -name "*.mp4" -print > SOMEFILE.txt
+    (master) Stefan
+    Stefans-MacBook-Pro:~ $ find ~/ -name "*.mp4" -print > SOMEFiLE.txt
     
-    Stefans-MacBook-Pro:~ $ cat SOMEFILE.txt
-    Desktop//GOT/A.Beautiful.Mind.2001.1080p.BrRip.x264.YIFY.mkv-muxeddddfdf.mp4
-    Desktop//GOT/game.of.thrones.s04e02.hdtv.x264-2hd.mp4
-    Desktop//GOT/game.of.thrones.s04e04.hdtv.x264-killers.mp4
-    Desktop//GOT/game.of.thrones.s04e07.hdtv.x264-killers 2.mp4
-    Desktop//GOT/game.of.thrones.s04e07.hdtv.x264-killers.mp4
-    Desktop//GOT/Game.of.Thrones.S04E08.HDTV.x264-KILLERS.mp4
-    Desktop//GOT/game.of.thrones.s04e10.hdtv.x264-killers.mp4
-    Desktop//GOT/The.Intouchables.2011.AKA.Untouchable.720p.BRRip.x264-Fastbet99.mp4
-    Desktop//M/1031789_10204868836427958_791990258_n.mp4
+    
     
