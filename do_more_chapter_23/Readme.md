@@ -10,9 +10,9 @@
 
 | Command  | What the command does                  |
 | -------- |:--------------------------------------:|
-| xargs    |                                        |
-| sudo     |                                        |
-| chmod    |                                        |
-| chown    |                                        |
+| xargs    | construct arguments lists and execute utility                                       |
+| sudo     | execute a command as another user                                       |
+| chmod    | change file modes or Access Control Lists                                       |
+| chown    | change file owner and group                                       |
 
 
