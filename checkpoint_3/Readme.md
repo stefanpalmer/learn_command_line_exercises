@@ -20,13 +20,12 @@ What happens if you touch an existing file. (Hint:  The answer is not nothing...
 Can you copy the foo/blah.txt file to slash temp?
 
     (master) Stefan
-    Stefans-MacBook-Pro:checkpoint_3 $ cp foo/blah.txt slash temp/
-    usage: cp [-R [-H | -L | -P]] [-fi | -n] [-apvX] source_file target_file
-           cp [-R [-H | -L | -P]] [-fi | -n] [-apvX] source_file ... target_directory
+    Stefans-MacBook-Pro:checkpoint_3 $ cp foo/blah.txt /tmp/
 
 Can you copy .bash_profile in your home directory to the current directory? (Do not use cd here...)
 
-    Stefans-MacBook-Pro:~ $ cp .bash_profile workspace/davinci_coders_t2_2016/homework/learn_command_line_exercises/checkpoint_3/
+    (master) Stefan
+    Stefans-MacBook-Pro:checkpoint_3 $ cp /Users/nafetsremlap/.bash_profile ~/workspace/davinci_coders_t2_2016/homework/learn_command_line_exercises/checkpoint_3
 
 What's in foo/blah.txt?
 
